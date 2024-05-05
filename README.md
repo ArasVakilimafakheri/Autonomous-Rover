@@ -21,3 +21,7 @@ For the gripper, we utilized a 3D-printed design with a rack and pinion system f
 ![Claw](https://github.com/ArasVakilimafakheri/RC-Rover/assets/168691560/20dc7e98-fd10-42f1-8338-5b8e99e9f868)
 
 The drivetrain, powered by two motors, allows for forward and backward motion. Steering is achieved by adjusting motor speed, guided by IR sensors and the PixyCam. Mounted strategically, these sensors aid in early detection and accurate steering towards detected objects.
+
+For the solidworks files please follow this link: 
+
+https://drive.google.com/file/d/1ZoUYSsRDZBA0H8IVAzm3WogvNsjYpN4t/view?usp=sharing
